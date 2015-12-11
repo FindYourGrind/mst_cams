@@ -1,0 +1,47 @@
+{
+   "JPEGQuality" : 25,
+   "ROI" : [
+      {
+         "angle" : 39,
+         "center" : [ 1175.699951171875, 1391.800048828125 ],
+         "size" : [ 330, 299 ]
+      },
+      {
+         "angle" : 20,
+         "center" : [ 1573.4000244140625, 1498.949951171875 ],
+         "size" : [ 260, 310 ]
+      },
+      {
+         "angle" : 10,
+         "center" : [ 1941.25, 1573.6500244140625 ],
+         "size" : [ 280, 310 ]
+      },
+      {
+         "angle" : 5,
+         "center" : [ 2323.64990234375, 1625.4000244140625 ],
+         "size" : [ 271, 310 ]
+      }
+   ],
+   "UID" : "00000000b3ca00ae",
+   "blurSize" : 40,
+   "camera" : {
+      "framerate" : 1,
+      "hflip" : false,
+      "resolution" : [ 2592, 1944 ],
+      "rotation" : 0,
+      "vflip" : false,
+      "videoPort" : true
+   },
+   "devUID" : "00000000b3ca00ae",
+   "edge" : [ 100, 200 ],
+   "edgesOnly" : true,
+   "maxThreads" : 4,
+   "server" : {
+      "ip" : "192.168.1.254",
+      "port" : 8080
+   },
+   "showROIs" : true,
+   "sobelSize" : 5,
+   "timestamp" : true,
+   "treshold" : 2
+}

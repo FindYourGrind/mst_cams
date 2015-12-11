@@ -1,0 +1,8 @@
+Package: parking
+Version: 1.0-1
+Section: embedded
+Architecture: armhf
+Depends: python2.7, python-picamera
+Recommends: nginx
+Maintainer: Michael Stumbra <mstumbra@yahoo.com>
+Description: parking space analyzing program
